@@ -3,3 +3,6 @@ dependencies:
   - nbserverproxy
   - pandas
   - numpy
+  - fiona
+  - geopandas
+  - shapely
